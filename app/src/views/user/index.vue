@@ -46,12 +46,12 @@
           </el-table-column>
           <el-table-column prop="userNickname" label="用户昵称" width="180px" align="center">
           </el-table-column>
-          <el-table-column prop="userName" label="用户账号" width="120px" align="center">
+          <el-table-column prop="userName" label="用户账号" width="250px" align="center">
           </el-table-column>
           <el-table-column prop="userPassword" label="用户密码" width="150px" align="center">
           </el-table-column>
-          <el-table-column prop="userEmail" label="用户邮箱" width="200px" align="center">
-          </el-table-column>
+          <!-- <el-table-column prop="userEmail" label="用户邮箱" width="200px" align="center">
+          </el-table-column> -->
           <el-table-column prop="userStatement" label="个人简介" width="150px" >
           </el-table-column>
           <el-table-column prop="userBirthday" label="用户生日" width="95px" align="center">
