@@ -40,7 +40,7 @@ module.exports = {
     proxy:{
       '/admin':{
         // target:'http://47.100.242.112:3003',
-        target:'http://localhost:3000',
+        target:'http://localhost:3003',
       }
     }
   },
